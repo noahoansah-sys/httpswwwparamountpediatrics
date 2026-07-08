@@ -25,7 +25,7 @@ export const Route = createFileRoute("/services")({
       {
         property: "og:description",
         content:
-          "Everyday pediatric care and specialty services in Burnaby. Booked with time to actually talk.",
+          "Everyday pediatric care and specialty services in Surrey. Booked with time to actually talk.",
       },
     ],
   }),

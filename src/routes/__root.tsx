@@ -83,14 +83,14 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       {
         name: "description",
         content:
-          "Board-certified pediatric care in Burnaby for newborns through teens. Same-day sick visits, well-child checkups, vaccinations, and reassuring guidance for parents.",
+          "Board-certified pediatric care in Surrey for newborns through teens. Same-day sick visits, well-child checkups, vaccinations, and reassuring guidance for parents.",
       },
       { name: "author", content: "Paramount Pediatrics" },
       { property: "og:title", content: "Paramount Pediatrics — Compassionate pediatric care" },
       {
         property: "og:description",
         content:
-          "Warm, evidence-based pediatric care in Burnaby. Book online, call anytime, and meet a team that treats your child like family.",
+          "Warm, evidence-based pediatric care in Surrey. Book online, call anytime, and meet a team that treats your child like family.",
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },

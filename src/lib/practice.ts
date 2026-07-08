@@ -5,8 +5,8 @@ export const practice = {
   phoneHref: "tel:+16045608709",
   bookHref: "/contact",
   address: {
-    line1: "Suite 210 — 4885 Kingsway",
-    line2: "Burnaby, BC V5H 4T2",
+    line1: "Suite 312 — 15336 31 Avenue",
+    line2: "Surrey, BC V3Z 0X2",
   },
   hours: [
     { day: "Monday – Thursday", time: "8:30 AM – 5:00 PM" },

@@ -10,7 +10,7 @@ export const Route = createFileRoute("/contact")({
       {
         name: "description",
         content:
-          "Book an appointment, get directions, or send us a message. Paramount Pediatrics is in Burnaby, BC with plenty of parking.",
+          "Book an appointment, get directions, or send us a message. Paramount Pediatrics is in Surrey, BC with plenty of parking.",
       },
       { property: "og:title", content: "Contact — Paramount Pediatrics" },
       {
