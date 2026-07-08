@@ -8,7 +8,7 @@ export const Route = createFileRoute("/team")({
       {
         name: "description",
         content:
-          "Meet the pediatricians, nurses, therapists, and support staff who care for kids and families at Paramount Pediatrics in Burnaby.",
+          "Meet the pediatricians, nurses, therapists, and support staff who care for kids and families at Paramount Pediatrics in Surrey.",
       },
       { property: "og:title", content: "Meet the Team — Paramount Pediatrics" },
       {

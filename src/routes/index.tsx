@@ -26,7 +26,7 @@ export const Route = createFileRoute("/")({
       {
         name: "description",
         content:
-          "Warm, evidence-based pediatric care in Burnaby. Book online, call anytime, and meet a team that treats your child like family.",
+          "Warm, evidence-based pediatric care in Surrey. Book online, call anytime, and meet a team that treats your child like family.",
       },
     ],
   }),
@@ -65,7 +65,7 @@ function Hero() {
             <span className="text-primary">from newborn to teen.</span>
           </h1>
           <p className="mt-5 max-w-xl text-lg leading-relaxed text-muted-foreground">
-            A calm, welcoming pediatric clinic in Burnaby where anxious parents get straight
+            A calm, welcoming pediatric clinic in Surrey where anxious parents get straight
             answers and kids feel safe. Same-day sick visits, gentle checkups, and a team that
             treats your family like our own.
           </p>
@@ -136,7 +136,7 @@ function TrustBar() {
   const items = [
     { icon: ShieldCheck, label: "Board-certified pediatricians" },
     { icon: HeartHandshake, label: "Judgement-free family care" },
-    { icon: Award, label: "20+ years serving Burnaby" },
+    { icon: Award, label: "20+ years serving Surrey" },
     { icon: Activity, label: "After-hours nurse line" },
   ];
   return (
