@@ -79,14 +79,14 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Paramount Pediatrics — Compassionate care for your child" },
+      { title: "Paramount Pediatrics — Compassionate care from newborn to teen" },
       {
         name: "description",
         content:
-          "Board-certified pediatric care in Surrey for newborns through teens. Same-day sick visits, well-child checkups, vaccinations, and reassuring guidance for parents.",
+          "Warm, evidence-based pediatric care in Surrey. Book online, call anytime, and meet a team that treats your child like family.",
       },
       { name: "author", content: "Paramount Pediatrics" },
-      { property: "og:title", content: "Paramount Pediatrics — Compassionate pediatric care" },
+      { property: "og:title", content: "Paramount Pediatrics — Compassionate care from newborn to teen" },
       {
         property: "og:description",
         content:
@@ -94,6 +94,10 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
+      { name: "twitter:title", content: "Paramount Pediatrics — Compassionate care from newborn to teen" },
+      { name: "twitter:description", content: "Warm, evidence-based pediatric care in Surrey. Book online, call anytime, and meet a team that treats your child like family." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/27da9279-5ece-45c8-a111-11b66401c8cc/id-preview-84ec417d--55a75c8e-4113-440b-b587-978c8a3488be.lovable.app-1783549951556.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/27da9279-5ece-45c8-a111-11b66401c8cc/id-preview-84ec417d--55a75c8e-4113-440b-b587-978c8a3488be.lovable.app-1783549951556.png" },
     ],
     links: [
       { rel: "stylesheet", href: appCss },
